@@ -1,7 +1,5 @@
 # actdes_sz
 
-Introduction
-Physics
 		 	 	 		
 The project very simply aims to calculate angular correlation of a model (Limber Approximation) vs. that of observation (from DES and ACT).			
 
