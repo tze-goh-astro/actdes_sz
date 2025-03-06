@@ -1,6 +1,6 @@
 # Uploaded data here 
 
-I have tried to put all the files here that the script actdes_sz.py 
+I have tried to put all the files here that the script actdes_sz.py would need to read 
 
 # Additional data to upload 
 
